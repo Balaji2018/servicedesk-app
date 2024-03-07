@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="165a212ddb34c610280b5db5f396199f" label="incident_management" max_length="40" name="x_acal_servicedesk_incident_management" type="collection"/>
+    <element db_object_id="165a212ddb34c610280b5db5f396199f" label="incident_management" max_length="40" name="x_acal_servicedesk_incident_management" type="collection">
+        <element label="description" max_length="40" name="description" type="string"/>
+    </element>
 </database>
